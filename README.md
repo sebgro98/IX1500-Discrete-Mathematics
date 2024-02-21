@@ -1,2 +1,2 @@
-# IX1500
+# IX1500 Discrete Mathematics
  
